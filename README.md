@@ -1,5 +1,11 @@
 ## Hey there!
 
+- 🔭 Currently working on whatever is committed latest (probably)
+- ⚡ Fan of pwn/reverse stuff, also a big fan of Cyberpunk 2077
+- 📫 `alphanine` on Discord if you want to reach me
+
+## GitHub stat stuff
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=alphanin9&show_icons=true&theme=dark"
@@ -25,7 +31,6 @@
   />
   <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github.com/alphanin9)" />
 </picture>
-
 <!--
 **alphanin9/alphanin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
