@@ -2,6 +2,7 @@
 
 - 🔭 Currently working on whatever is committed latest (probably)
 - ⚡ Fan of pwn/reverse stuff, also a big fan of Cyberpunk 2077
+- 😄 Like sticking my nose into other people's code and binaries
 - 📫 `alphanine` on Discord if you want to reach me
 
 ## GitHub stat stuff
